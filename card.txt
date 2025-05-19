@@ -1,0 +1,169 @@
+<div class="box-1 box">
+                <h2>Title-1</h2>
+                <div class="box-img" style="background-image: url(../assets/img/paper\ and\ cardboard.jpg);">
+                </div>
+                <div class="box-content">
+                    <div class="price">
+                        Price in Rupees
+                    </div>
+                    <p>Description</p>
+                    <p>Address</p>
+                </div>
+                <div class="date-pub">
+                    <p>date</p>
+                </div>
+            </div>
+            <div class="box-1 box">
+                <h2>Title-1</h2>
+                <div class="box-img" style="background-image: url(../assets/img/Textile\ recycling.jpg);">
+                </div>
+                <div class="box-content">
+                    <div class="price">
+                        Price in Rupees
+                    </div>
+                    <p>Description</p>
+                    <p>Address</p>
+                </div>
+                <div class="date-pub">
+                    <p>date</p>
+                </div>
+            </div>
+            <div class="box-1 box">
+                <h2>Title-1</h2>
+                <div class="box-img" style="background-image: url(../assets/img/packaging\ materials.jpg);">
+                </div>
+                <div class="box-content">
+                    <div class="price">
+                        Price in Rupees
+                    </div>
+                    <p>Description</p>
+                    <p>Address</p>
+                </div>
+                <div class="date-pub">
+                    <p>date</p>
+                </div>
+            </div>
+            </div>
+            <div class="shop-sec">
+            <div class="box-1 box">
+                <h2>Title-1</h2>
+                <div class="box-img" style="background-image: url(../assets/img/Glasss\ Recycling.jpg);">
+                </div>
+                <div class="box-content">
+                    <div class="price">
+                        Price in Rupees
+                    </div>
+                    <p>Description</p>
+                    <p>Address</p>
+                </div>
+                <div class="date-pub">
+                    <p>date</p>
+                </div>
+            </div>
+            <div class="box-1 box">
+                <h2>Title-1</h2>
+                <div class="box-img" style="background-image: url(../assets/img/furniture.jpg);">
+                </div>
+                <div class="box-content">
+                    <div class="price">
+                        Price in Rupees
+                    </div>
+                    <p>Description</p>
+                    <p>Address</p>
+                </div>
+                <div class="date-pub">
+                    <p>date</p>
+                </div>
+            </div>
+            <div class="box-1 box">
+                <h2>Title-1</h2>
+                <div class="box-img" style="background-image: url(../assets/img/E-waste\ recyccling.jpg);">
+                </div>
+                <div class="box-content">
+                    <div class="price">
+                        Price in Rupees
+                    </div>
+                    <p>Description</p>
+                    <p>Address</p>
+                </div>
+                <div class="date-pub">
+                    <p>date</p>
+                </div>
+            </div>
+            <div class="box-1 box">
+                <h2>Title-1</h2>
+                <div class="box-img" style="background-image: url(../assets/img/construction\ and\ demolition\ waste.jpg);">
+                </div>
+                <div class="box-content">
+                    <div class="price">
+                        Price in Rupees
+                    </div>
+                    <p>Description</p>
+                    <p>Address</p>
+                </div>
+                <div class="date-pub">
+                    <p>date</p>
+                </div>
+            </div>
+            </div>
+            <div class="shop-sec">
+            <div class="box-1 box">
+                <h2>Title-1</h2>
+                <div class="box-img" style="background-image: url(../assets/img/bulbs.jpg);">
+                </div>
+                <div class="box-content">
+                    <div class="price">
+                        Price in Rupees
+                    </div>
+                    <p>Description</p>
+                    <p>Address</p>
+                </div>
+                <div class="date-pub">
+                    <p>date</p>
+                </div>
+            </div>
+            <div class="box-1 box">
+                <h2>Title-1</h2>
+                <div class="box-img" style="background-image: url(../assets/img/Battery.jpg);">
+                </div>
+                <div class="box-content">
+                    <div class="price">
+                        Price in Rupees
+                    </div>
+                    <p>Description</p>
+                    <p>Address</p>
+                </div>
+                <div class="date-pub">
+                    <p>date</p>
+                </div>
+            </div>
+            <div class="box-1 box">
+                <h2>Title-1</h2>
+                <div class="box-img" style="background-image: url(../assets/img/automobile.jpg);">
+                </div>
+                <div class="box-content">
+                    <div class="price">
+                        Price in Rupees
+                    </div>
+                    <p>Description</p>
+                    <p>Address</p>
+                </div>
+                <div class="date-pub">
+                    <p>date</p>
+                </div>
+            </div>
+            <div class="box-1 box">
+                <h2>Title-1</h2>
+                <div class="box-img" style="background-image: url(../assets/img/Appliances.jpg);">
+                </div>
+                <div class="box-content">
+                    <div class="price">
+                        Price in Rupees
+                    </div>
+                    <p>Description</p>
+                    <p>Address</p>
+                </div>
+                <div class="date-pub">
+                    <p>date</p>
+                </div>
+            </div>

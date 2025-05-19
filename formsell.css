@@ -1,0 +1,240 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url(./assets/img/web_bg2.jpg);
+    background-size: cover;
+}
+
+.nav-logo{
+    margin-top: 1.5rem;
+}
+
+.nav-logo button{
+    padding: 10px;
+    margin-left: 2rem;
+    margin-bottom: 1rem;
+    margin-top: -1.5rem;
+    width: 125px;
+    background-color: #68D2E8;
+    color: black;
+    border: transparent;
+    border-radius: 10px;
+    font-weight: 800;
+    font-size: 1.2rem;
+}
+
+.main-line{
+    text-align: center;
+    color: #fff;
+}
+/* body{
+    background: #fff;
+} */
+form{
+    font-family: 'Times New Roman', Times, serif;
+
+    /* width: 200px;
+    height: 200px; */
+    border-radius: 50px 0px 50px 0px;
+    border: white;
+    position: absolute;
+    
+}
+/* HOVER EFFECT */
+.hover-effect{
+    border: 1px solid black;
+}
+
+.hover-effect:hover{
+    border: 2px solid rgb(26, 238, 224);
+}
+
+
+/* IMAGE FORM CSS  */
+
+.img-post{
+    color: black;
+    margin-right: 25rem;
+    translate: 5rem -35rem;
+    opacity: 0.9;
+    height: 10rem;
+    width: 30rem;
+    background-color: #FFF2D7;
+    border-radius: 25px;
+    font-size: 2rem;
+    font-weight: 800;
+    border: 1px solid black;
+    align-items: center;
+    text-align: center;
+    /* padding: 2.7rem; */
+}
+.img-post input{
+    font-size: 1.2rem;
+    font-weight: 400;
+    margin-top: 1.5rem;
+    margin-left: 5.5rem;
+}
+.img-post button{
+    width: 5.5rem;
+    height: 2rem;
+    margin-top: 15px;
+    font-size: 1.2rem;
+    background-color: #5AB2FF;
+    border: transparent;
+    border-radius: 12px;
+}
+
+/* IMAGE FORM CSS CLOSE */
+
+/* POST FORM CSS START */
+
+.post-form{
+    margin-left: 50%;
+    margin-top: 2rem;
+    /* align-items: center; */
+    /* opacity: 0.9; */
+    height: 55rem;
+    width: 40rem;
+    border-radius: 25px;
+    background-color: #FFF2D7;
+    border: 1px solid black;
+    font-size: 1.3rem;
+    font-weight: 400;
+}
+.post-form form{
+    translate: 0 2rem;
+}
+
+.select-heading{
+    display: flex;
+    gap: 15px;
+    margin-left: 35px;
+}
+
+.select-heading select{
+    width: 13rem;
+    height: 2.6rem;
+    background-color: azure;
+    margin-left: 60px;
+    border: none;
+    border-radius: 10px;
+    align-items: center;
+}
+
+.email-info{
+    margin-top: 25px;
+    margin-left: 35px;
+    gap: 15px;
+}
+
+.email-info input{
+    width: 13rem;
+    height: 2.6rem;
+    background-color: azure;
+    border: none;
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 10px;
+}
+
+.phone-info{
+    margin-top: 25px;
+    margin-left: 35px;
+    gap: 15px;
+}
+
+.phone-info input{
+    width: 13rem;
+    height: 2.6rem;
+    background-color: azure;
+    border: none;
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 28px;
+}
+
+.brand-name{
+    margin-top: 25px;
+    margin-left: 35px;
+    gap: 15px;
+}
+
+.brand-name input{
+    width: 13rem;
+    height: 2.6rem;
+    background-color: azure;
+    border: none;
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 135px;
+}
+
+.year-purchase{
+    margin-top: 25px;
+    margin-left: 35px;
+    gap: 15px;
+}
+
+.year-purchase input{
+    width: 8rem;
+    height: 2.6rem;
+    background-color: azure;
+    border: none;
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 90px;
+}
+
+
+.describe-product {
+    margin-top: 25px;
+    margin-left: 35px;
+    gap: 15px;
+}
+.describe-product input{
+    width: 23rem;
+    height: 4.6rem;
+    background-color: azure;
+    border: none;
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 10px;
+}
+
+.present-address{
+    margin-top: 25px;
+    margin-left: 5px;
+    gap: 15px;
+}
+
+.present-address input{
+    width: 22rem;
+    height: 4.6rem;
+    background-color: azure;
+    border: none;
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 40px;
+}
+
+.product-quantity input{
+    margin-left: 120px;
+}
+
+.product-price input{
+    margin-left: 35px;
+}
+
+.post-ad button{
+    width: 8.5rem;
+    height: 4rem;
+    margin-top: 35px;
+    margin-left: 12rem;
+    font-size: 1.2rem;
+    background-color: #5AB2FF;
+    border: transparent;
+    border-radius: 12px;
+}
